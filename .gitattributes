@@ -1,0 +1,2 @@
+* linguist-vendored
+*.scala .scm .sml .ads .java linguist-vendored=false
